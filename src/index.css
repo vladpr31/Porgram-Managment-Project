@@ -1,0 +1,38 @@
+html {
+    height: 100%;
+}
+
+#navBar a {
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    display: block;
+    padding: 15px;
+    font-size: 30px;
+    background-color: inherit;
+}
+
+#navBar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: rgba(3, 4, 5, 0.4);
+    background-size: cover;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#navBar li {
+    display: block;
+    float: left;
+}
+
+#navBar a:hover {
+    color: lightskyblue
+}
+
+body {
+    background-image: url("imgs/banner.jpg");
+    background-size: cover;
+}
