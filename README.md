@@ -1,5 +1,7 @@
-![Image](https://github.com/vladpr31/Porgram-Managment-Project/blob/main/src/imgs/banner.jpg)
 # Porgram-Managment-Project
+
+![Image](https://github.com/vladpr31/Porgram-Managment-Project/blob/main/src/imgs/banner.jpg)
+
 # Authors:
 * Avi Ergaz
 * Vlad Propisnov
