@@ -1,2 +1,3 @@
 # Porgram-Managment-Project
-Porgram Managment Project
+# Authors:
+* Avi Ergaz
